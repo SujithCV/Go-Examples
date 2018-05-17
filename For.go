@@ -1,7 +1,7 @@
 package main
 import "fmt"
 func main(){
-for i:=1;i<=25;i++ {
+for i:=1;i<=25;i++ {     //For loop
       if i%2==1{
       fmt.Println(i)
     }
